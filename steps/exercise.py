@@ -9,8 +9,7 @@ def main():
     circuit = QuantumCircuit(q, c)
 
     # Quantum circuit starts here
-    # MISSING
-    # MISSING
+    test
     circuit.measure(q, c)
     # End quantum circuit
 
